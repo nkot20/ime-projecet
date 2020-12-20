@@ -1,1 +1,1 @@
-# ime-projecet
+# ime-project
